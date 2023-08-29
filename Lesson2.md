@@ -1,4 +1,4 @@
-# What happens when we runa JavaScript program?
+# What happens when we run a JavaScript program?
 
 An execution context is created.
 
@@ -23,6 +23,7 @@ Firstly Js skims through the program and stores undefined to all variables and t
 Once again Js goes through the whole program line by line and executes the program
 
 | Memory(Phase 1 / Phase 2) | Code |
+| :---: | :---: |
 | :---: | :---: |
 |n : undefined / 2 | Memory Code (New execution context is created when we call a function)|
 | square : {...} | |
