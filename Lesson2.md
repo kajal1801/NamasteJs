@@ -24,7 +24,6 @@ Once again Js goes through the whole program line by line and executes the progr
 
 | Memory(Phase 1 / Phase 2) | Code |
 | :---: | :---: |
-| :---: | :---: |
 |n : undefined / 2 | Memory Code (New execution context is created when we call a function)|
 | square : {...} | |
 | num : undefined / 2 / 4 | return keyword states that return the control to the parent |
